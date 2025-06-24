@@ -11,9 +11,9 @@ redirect_from:
 
 Research Papers
 ------
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Wenjie Sun. Regular diffusion and stochastic differential equation with generalized drift. *Journal of Theoretical Probability*, 38:44, 2025.
+* Liping Li, Wenjie Sun. On a stiff problem in two-dimensional space. *Annals of Appllied Probability*, 34:4193-4236, 2024.  
+
 
 Work experience
 ======
