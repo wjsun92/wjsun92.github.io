@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "North 322"
-date: 2015-01-01
+date: 2025-09
 location: "City, Country"
 ---
 
