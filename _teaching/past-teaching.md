@@ -1,6 +1,10 @@
 ---
 title: "Past teaching"
-
+type: "Workshop"
+permalink: /teaching/past-teaching
+venue: "Tongji University"
+date: 2022-2025
+location: "Shanghai"
 ---
 
 This is a collection of my past teaching. 
