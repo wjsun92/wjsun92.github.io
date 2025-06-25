@@ -8,5 +8,5 @@ date: 2025-09-01
 location: "City, Country"
 ---
 
-This is a course about prbability based on measure theory. 
+This is a course about probability based on measure theory. 
 
