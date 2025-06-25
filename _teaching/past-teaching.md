@@ -1,10 +1,6 @@
 ---
 title: "Past teaching"
 type: "Courses"
-permalink: /teaching/past-teaching
-venue: "Tongji University"
-date: 2025
-location: "Shanghai"
 ---
 
 This is a collection of my past teaching. 
