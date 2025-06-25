@@ -3,7 +3,7 @@ title: "Past teaching"
 type: "Courses"
 permalink: /teaching/past-teaching
 venue: "Tongji University"
-date: "2022-2025"
+date: 2025
 location: "Shanghai"
 ---
 
